@@ -1,6 +1,6 @@
 /*!
  * GreenSock Parallax: a simple and small parallax plugin.
- * http://steeleimage.com/portfolio/fsbi
+ * 
  *
  * Copyright 2012, Michael Steele
  * Dual licensed under the MIT or GPL Version 2 licenses.
